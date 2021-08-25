@@ -130,5 +130,9 @@
       }
     }
   },
+  "engines": {
+  "node": "6.11.1",
+  "npm": "3.10.9"
+},
   "defaultProject": "test-project"
 }
